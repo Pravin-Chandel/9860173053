@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pravin
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Python, Tableau, R, MySQL,Hadoop, Artificial intelligence and Deep learning
+- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence
+- 📫 How to reach me chandel.pravin98@gmail.com
